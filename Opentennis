@@ -1,0 +1,7 @@
+эхо "# opentennis" >> README.md
+ инициализация git
+ git добавить README.md
+ git commit -m "первая фиксация"
+ветка git -M main
+ git удаленное добавление источника https://github.com/DimvVadim/opentennis.git
+ git push -u origin основной
